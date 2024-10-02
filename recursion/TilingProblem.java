@@ -1,4 +1,4 @@
-package Recursion;
+package recursion;
 //You have given a 2*n board and tile of 2*1
 //you have to find the ways to tile the given board using the 2*1 tiles
 //You can arrange the tiles vertically or horizontally

@@ -1,4 +1,4 @@
-package Recursion;
+package recursion;
 //Print all possible Binary strings without consecutive one's
 
 public class PrintBinaryStrings {

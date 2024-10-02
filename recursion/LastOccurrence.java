@@ -1,4 +1,4 @@
-package Recursion;
+package recursion;
 //Write a function to find the last occurrence of element in array
 
 public class LastOccurrence {

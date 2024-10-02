@@ -1,4 +1,4 @@
-package Recursion;
+package recursion;
 
 //Find the first occurrence of element in array
 

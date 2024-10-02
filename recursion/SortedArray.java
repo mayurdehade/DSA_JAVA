@@ -1,4 +1,4 @@
-package Recursion;
+package recursion;
 //Find the array is sorted in increasing order or not
 public class SortedArray {
 

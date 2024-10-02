@@ -1,4 +1,4 @@
-package Recursion;
+package recursion;
 //Print numbers from n to 1 (Decreasing order) using recursion
 public class PrintNumbers {
 
